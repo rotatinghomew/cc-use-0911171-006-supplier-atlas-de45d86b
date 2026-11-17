@@ -1,0 +1,2739 @@
+{
+  "suppliers": [
+    {
+      "supplier": "V01",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V02",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V03",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V04",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V05",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V06",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V07",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V08",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V09",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V10",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V11",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V12",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V13",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V14",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V15",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V16",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V17",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V18",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V19",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V20",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V21",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V22",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V23",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V24",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V25",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V26",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V27",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V28",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V29",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V30",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V31",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V32",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V33",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V34",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V35",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V36",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V37",
+      "joined_on": "2026-09-01"
+    },
+    {
+      "supplier": "V38",
+      "joined_on": "2026-09-01"
+    }
+  ],
+  "deliveries": [
+    {
+      "delivery_id": "D1-1",
+      "supplier": "V01",
+      "day": "2026-09-07",
+      "promised_kg": 103,
+      "received_kg": 93,
+      "late_hours": 1,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D1-2",
+      "supplier": "V01",
+      "day": "2026-09-13",
+      "promised_kg": 103,
+      "received_kg": 93,
+      "late_hours": 2,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D1-3",
+      "supplier": "V01",
+      "day": "2026-09-19",
+      "promised_kg": 103,
+      "received_kg": 93,
+      "late_hours": 3,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D1-4",
+      "supplier": "V01",
+      "day": "2026-09-25",
+      "promised_kg": 103,
+      "received_kg": 93,
+      "late_hours": 4,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D1-5",
+      "supplier": "V01",
+      "day": "2026-10-01",
+      "promised_kg": 103,
+      "received_kg": 93,
+      "late_hours": 5,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D1-6",
+      "supplier": "V01",
+      "day": "2026-10-07",
+      "promised_kg": 103,
+      "received_kg": 93,
+      "late_hours": 6,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D1-7",
+      "supplier": "V01",
+      "day": "2026-10-13",
+      "promised_kg": 103,
+      "received_kg": 93,
+      "late_hours": 0,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D1-8",
+      "supplier": "V01",
+      "day": "2026-10-19",
+      "promised_kg": 103,
+      "received_kg": 93,
+      "late_hours": 1,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D2-1",
+      "supplier": "V02",
+      "day": "2026-09-07",
+      "promised_kg": 106,
+      "received_kg": 96,
+      "late_hours": 2,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D2-2",
+      "supplier": "V02",
+      "day": "2026-09-13",
+      "promised_kg": 106,
+      "received_kg": 96,
+      "late_hours": 4,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D2-3",
+      "supplier": "V02",
+      "day": "2026-09-19",
+      "promised_kg": 106,
+      "received_kg": 96,
+      "late_hours": 6,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D2-4",
+      "supplier": "V02",
+      "day": "2026-09-25",
+      "promised_kg": 106,
+      "received_kg": 96,
+      "late_hours": 1,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D2-5",
+      "supplier": "V02",
+      "day": "2026-10-01",
+      "promised_kg": 106,
+      "received_kg": 96,
+      "late_hours": 3,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D2-6",
+      "supplier": "V02",
+      "day": "2026-10-07",
+      "promised_kg": 106,
+      "received_kg": 96,
+      "late_hours": 5,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D2-7",
+      "supplier": "V02",
+      "day": "2026-10-13",
+      "promised_kg": 106,
+      "received_kg": 96,
+      "late_hours": 0,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D2-8",
+      "supplier": "V02",
+      "day": "2026-10-19",
+      "promised_kg": 106,
+      "received_kg": 96,
+      "late_hours": 2,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D3-1",
+      "supplier": "V03",
+      "day": "2026-09-07",
+      "promised_kg": 109,
+      "received_kg": 99,
+      "late_hours": 3,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D3-2",
+      "supplier": "V03",
+      "day": "2026-09-13",
+      "promised_kg": 109,
+      "received_kg": 99,
+      "late_hours": 6,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D3-3",
+      "supplier": "V03",
+      "day": "2026-09-19",
+      "promised_kg": 109,
+      "received_kg": 99,
+      "late_hours": 2,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D3-4",
+      "supplier": "V03",
+      "day": "2026-09-25",
+      "promised_kg": 109,
+      "received_kg": 99,
+      "late_hours": 5,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D3-5",
+      "supplier": "V03",
+      "day": "2026-10-01",
+      "promised_kg": 109,
+      "received_kg": 99,
+      "late_hours": 1,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D3-6",
+      "supplier": "V03",
+      "day": "2026-10-07",
+      "promised_kg": 109,
+      "received_kg": 99,
+      "late_hours": 4,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D3-7",
+      "supplier": "V03",
+      "day": "2026-10-13",
+      "promised_kg": 109,
+      "received_kg": 99,
+      "late_hours": 0,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D3-8",
+      "supplier": "V03",
+      "day": "2026-10-19",
+      "promised_kg": 109,
+      "received_kg": 99,
+      "late_hours": 3,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D4-1",
+      "supplier": "V04",
+      "day": "2026-09-07",
+      "promised_kg": 112,
+      "received_kg": 102,
+      "late_hours": 4,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D4-2",
+      "supplier": "V04",
+      "day": "2026-09-13",
+      "promised_kg": 112,
+      "received_kg": 102,
+      "late_hours": 1,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D4-3",
+      "supplier": "V04",
+      "day": "2026-09-19",
+      "promised_kg": 112,
+      "received_kg": 102,
+      "late_hours": 5,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D4-4",
+      "supplier": "V04",
+      "day": "2026-09-25",
+      "promised_kg": 112,
+      "received_kg": 102,
+      "late_hours": 2,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D4-5",
+      "supplier": "V04",
+      "day": "2026-10-01",
+      "promised_kg": 112,
+      "received_kg": 102,
+      "late_hours": 6,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D4-6",
+      "supplier": "V04",
+      "day": "2026-10-07",
+      "promised_kg": 112,
+      "received_kg": 102,
+      "late_hours": 3,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D4-7",
+      "supplier": "V04",
+      "day": "2026-10-13",
+      "promised_kg": 112,
+      "received_kg": 102,
+      "late_hours": 0,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D4-8",
+      "supplier": "V04",
+      "day": "2026-10-19",
+      "promised_kg": 112,
+      "received_kg": 102,
+      "late_hours": 4,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D5-1",
+      "supplier": "V05",
+      "day": "2026-09-07",
+      "promised_kg": 115,
+      "received_kg": 105,
+      "late_hours": 5,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D5-2",
+      "supplier": "V05",
+      "day": "2026-09-13",
+      "promised_kg": 115,
+      "received_kg": 105,
+      "late_hours": 3,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D5-3",
+      "supplier": "V05",
+      "day": "2026-09-19",
+      "promised_kg": 115,
+      "received_kg": 105,
+      "late_hours": 1,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D5-4",
+      "supplier": "V05",
+      "day": "2026-09-25",
+      "promised_kg": 115,
+      "received_kg": 105,
+      "late_hours": 6,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D5-5",
+      "supplier": "V05",
+      "day": "2026-10-01",
+      "promised_kg": 115,
+      "received_kg": 105,
+      "late_hours": 4,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D5-6",
+      "supplier": "V05",
+      "day": "2026-10-07",
+      "promised_kg": 115,
+      "received_kg": 105,
+      "late_hours": 2,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D5-7",
+      "supplier": "V05",
+      "day": "2026-10-13",
+      "promised_kg": 115,
+      "received_kg": 105,
+      "late_hours": 0,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D5-8",
+      "supplier": "V05",
+      "day": "2026-10-19",
+      "promised_kg": 115,
+      "received_kg": 105,
+      "late_hours": 5,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D6-1",
+      "supplier": "V06",
+      "day": "2026-09-07",
+      "promised_kg": 118,
+      "received_kg": 108,
+      "late_hours": 6,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D6-2",
+      "supplier": "V06",
+      "day": "2026-09-13",
+      "promised_kg": 118,
+      "received_kg": 108,
+      "late_hours": 5,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D6-3",
+      "supplier": "V06",
+      "day": "2026-09-19",
+      "promised_kg": 118,
+      "received_kg": 108,
+      "late_hours": 4,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D6-4",
+      "supplier": "V06",
+      "day": "2026-09-25",
+      "promised_kg": 118,
+      "received_kg": 108,
+      "late_hours": 3,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D6-5",
+      "supplier": "V06",
+      "day": "2026-10-01",
+      "promised_kg": 118,
+      "received_kg": 108,
+      "late_hours": 2,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D6-6",
+      "supplier": "V06",
+      "day": "2026-10-07",
+      "promised_kg": 118,
+      "received_kg": 108,
+      "late_hours": 1,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D6-7",
+      "supplier": "V06",
+      "day": "2026-10-13",
+      "promised_kg": 118,
+      "received_kg": 108,
+      "late_hours": 0,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D6-8",
+      "supplier": "V06",
+      "day": "2026-10-19",
+      "promised_kg": 118,
+      "received_kg": 108,
+      "late_hours": 6,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D7-1",
+      "supplier": "V07",
+      "day": "2026-09-07",
+      "promised_kg": 121,
+      "received_kg": 111,
+      "late_hours": 0,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D7-2",
+      "supplier": "V07",
+      "day": "2026-09-13",
+      "promised_kg": 121,
+      "received_kg": 111,
+      "late_hours": 0,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D7-3",
+      "supplier": "V07",
+      "day": "2026-09-19",
+      "promised_kg": 121,
+      "received_kg": 111,
+      "late_hours": 0,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D7-4",
+      "supplier": "V07",
+      "day": "2026-09-25",
+      "promised_kg": 121,
+      "received_kg": 111,
+      "late_hours": 0,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D7-5",
+      "supplier": "V07",
+      "day": "2026-10-01",
+      "promised_kg": 121,
+      "received_kg": 111,
+      "late_hours": 0,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D7-6",
+      "supplier": "V07",
+      "day": "2026-10-07",
+      "promised_kg": 121,
+      "received_kg": 111,
+      "late_hours": 0,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D7-7",
+      "supplier": "V07",
+      "day": "2026-10-13",
+      "promised_kg": 121,
+      "received_kg": 111,
+      "late_hours": 0,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D7-8",
+      "supplier": "V07",
+      "day": "2026-10-19",
+      "promised_kg": 121,
+      "received_kg": 111,
+      "late_hours": 0,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D8-1",
+      "supplier": "V08",
+      "day": "2026-09-07",
+      "promised_kg": 124,
+      "received_kg": 114,
+      "late_hours": 1,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D8-2",
+      "supplier": "V08",
+      "day": "2026-09-13",
+      "promised_kg": 124,
+      "received_kg": 114,
+      "late_hours": 2,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D8-3",
+      "supplier": "V08",
+      "day": "2026-09-19",
+      "promised_kg": 124,
+      "received_kg": 114,
+      "late_hours": 3,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D8-4",
+      "supplier": "V08",
+      "day": "2026-09-25",
+      "promised_kg": 124,
+      "received_kg": 114,
+      "late_hours": 4,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D8-5",
+      "supplier": "V08",
+      "day": "2026-10-01",
+      "promised_kg": 124,
+      "received_kg": 114,
+      "late_hours": 5,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D8-6",
+      "supplier": "V08",
+      "day": "2026-10-07",
+      "promised_kg": 124,
+      "received_kg": 114,
+      "late_hours": 6,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D8-7",
+      "supplier": "V08",
+      "day": "2026-10-13",
+      "promised_kg": 124,
+      "received_kg": 114,
+      "late_hours": 0,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D8-8",
+      "supplier": "V08",
+      "day": "2026-10-19",
+      "promised_kg": 124,
+      "received_kg": 114,
+      "late_hours": 1,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D9-1",
+      "supplier": "V09",
+      "day": "2026-09-07",
+      "promised_kg": 127,
+      "received_kg": 117,
+      "late_hours": 2,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D9-2",
+      "supplier": "V09",
+      "day": "2026-09-13",
+      "promised_kg": 127,
+      "received_kg": 117,
+      "late_hours": 4,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D9-3",
+      "supplier": "V09",
+      "day": "2026-09-19",
+      "promised_kg": 127,
+      "received_kg": 117,
+      "late_hours": 6,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D9-4",
+      "supplier": "V09",
+      "day": "2026-09-25",
+      "promised_kg": 127,
+      "received_kg": 117,
+      "late_hours": 1,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D9-5",
+      "supplier": "V09",
+      "day": "2026-10-01",
+      "promised_kg": 127,
+      "received_kg": 117,
+      "late_hours": 3,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D9-6",
+      "supplier": "V09",
+      "day": "2026-10-07",
+      "promised_kg": 127,
+      "received_kg": 117,
+      "late_hours": 5,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D9-7",
+      "supplier": "V09",
+      "day": "2026-10-13",
+      "promised_kg": 127,
+      "received_kg": 117,
+      "late_hours": 0,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D9-8",
+      "supplier": "V09",
+      "day": "2026-10-19",
+      "promised_kg": 127,
+      "received_kg": 117,
+      "late_hours": 2,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D10-1",
+      "supplier": "V10",
+      "day": "2026-09-07",
+      "promised_kg": 130,
+      "received_kg": 120,
+      "late_hours": 3,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D10-2",
+      "supplier": "V10",
+      "day": "2026-09-13",
+      "promised_kg": 130,
+      "received_kg": 120,
+      "late_hours": 6,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D10-3",
+      "supplier": "V10",
+      "day": "2026-09-19",
+      "promised_kg": 130,
+      "received_kg": 120,
+      "late_hours": 2,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D10-4",
+      "supplier": "V10",
+      "day": "2026-09-25",
+      "promised_kg": 130,
+      "received_kg": 120,
+      "late_hours": 5,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D10-5",
+      "supplier": "V10",
+      "day": "2026-10-01",
+      "promised_kg": 130,
+      "received_kg": 120,
+      "late_hours": 1,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D10-6",
+      "supplier": "V10",
+      "day": "2026-10-07",
+      "promised_kg": 130,
+      "received_kg": 120,
+      "late_hours": 4,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D10-7",
+      "supplier": "V10",
+      "day": "2026-10-13",
+      "promised_kg": 130,
+      "received_kg": 120,
+      "late_hours": 0,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D10-8",
+      "supplier": "V10",
+      "day": "2026-10-19",
+      "promised_kg": 130,
+      "received_kg": 120,
+      "late_hours": 3,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D11-1",
+      "supplier": "V11",
+      "day": "2026-09-07",
+      "promised_kg": 133,
+      "received_kg": 123,
+      "late_hours": 4,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D11-2",
+      "supplier": "V11",
+      "day": "2026-09-13",
+      "promised_kg": 133,
+      "received_kg": 123,
+      "late_hours": 1,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D11-3",
+      "supplier": "V11",
+      "day": "2026-09-19",
+      "promised_kg": 133,
+      "received_kg": 123,
+      "late_hours": 5,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D11-4",
+      "supplier": "V11",
+      "day": "2026-09-25",
+      "promised_kg": 133,
+      "received_kg": 123,
+      "late_hours": 2,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D11-5",
+      "supplier": "V11",
+      "day": "2026-10-01",
+      "promised_kg": 133,
+      "received_kg": 123,
+      "late_hours": 6,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D11-6",
+      "supplier": "V11",
+      "day": "2026-10-07",
+      "promised_kg": 133,
+      "received_kg": 123,
+      "late_hours": 3,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D11-7",
+      "supplier": "V11",
+      "day": "2026-10-13",
+      "promised_kg": 133,
+      "received_kg": 123,
+      "late_hours": 0,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D11-8",
+      "supplier": "V11",
+      "day": "2026-10-19",
+      "promised_kg": 133,
+      "received_kg": 123,
+      "late_hours": 4,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D12-1",
+      "supplier": "V12",
+      "day": "2026-09-07",
+      "promised_kg": 136,
+      "received_kg": 126,
+      "late_hours": 5,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D12-2",
+      "supplier": "V12",
+      "day": "2026-09-13",
+      "promised_kg": 136,
+      "received_kg": 126,
+      "late_hours": 3,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D12-3",
+      "supplier": "V12",
+      "day": "2026-09-19",
+      "promised_kg": 136,
+      "received_kg": 126,
+      "late_hours": 1,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D12-4",
+      "supplier": "V12",
+      "day": "2026-09-25",
+      "promised_kg": 136,
+      "received_kg": 126,
+      "late_hours": 6,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D12-5",
+      "supplier": "V12",
+      "day": "2026-10-01",
+      "promised_kg": 136,
+      "received_kg": 126,
+      "late_hours": 4,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D12-6",
+      "supplier": "V12",
+      "day": "2026-10-07",
+      "promised_kg": 136,
+      "received_kg": 126,
+      "late_hours": 2,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D12-7",
+      "supplier": "V12",
+      "day": "2026-10-13",
+      "promised_kg": 136,
+      "received_kg": 126,
+      "late_hours": 0,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D12-8",
+      "supplier": "V12",
+      "day": "2026-10-19",
+      "promised_kg": 136,
+      "received_kg": 126,
+      "late_hours": 5,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D13-1",
+      "supplier": "V13",
+      "day": "2026-09-07",
+      "promised_kg": 139,
+      "received_kg": 129,
+      "late_hours": 6,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D13-2",
+      "supplier": "V13",
+      "day": "2026-09-13",
+      "promised_kg": 139,
+      "received_kg": 129,
+      "late_hours": 5,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D13-3",
+      "supplier": "V13",
+      "day": "2026-09-19",
+      "promised_kg": 139,
+      "received_kg": 129,
+      "late_hours": 4,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D13-4",
+      "supplier": "V13",
+      "day": "2026-09-25",
+      "promised_kg": 139,
+      "received_kg": 129,
+      "late_hours": 3,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D13-5",
+      "supplier": "V13",
+      "day": "2026-10-01",
+      "promised_kg": 139,
+      "received_kg": 129,
+      "late_hours": 2,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D13-6",
+      "supplier": "V13",
+      "day": "2026-10-07",
+      "promised_kg": 139,
+      "received_kg": 129,
+      "late_hours": 1,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D13-7",
+      "supplier": "V13",
+      "day": "2026-10-13",
+      "promised_kg": 139,
+      "received_kg": 129,
+      "late_hours": 0,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D13-8",
+      "supplier": "V13",
+      "day": "2026-10-19",
+      "promised_kg": 139,
+      "received_kg": 129,
+      "late_hours": 6,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D14-1",
+      "supplier": "V14",
+      "day": "2026-09-07",
+      "promised_kg": 142,
+      "received_kg": 132,
+      "late_hours": 0,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D14-2",
+      "supplier": "V14",
+      "day": "2026-09-13",
+      "promised_kg": 142,
+      "received_kg": 132,
+      "late_hours": 0,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D14-3",
+      "supplier": "V14",
+      "day": "2026-09-19",
+      "promised_kg": 142,
+      "received_kg": 132,
+      "late_hours": 0,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D14-4",
+      "supplier": "V14",
+      "day": "2026-09-25",
+      "promised_kg": 142,
+      "received_kg": 132,
+      "late_hours": 0,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D14-5",
+      "supplier": "V14",
+      "day": "2026-10-01",
+      "promised_kg": 142,
+      "received_kg": 132,
+      "late_hours": 0,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D14-6",
+      "supplier": "V14",
+      "day": "2026-10-07",
+      "promised_kg": 142,
+      "received_kg": 132,
+      "late_hours": 0,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D14-7",
+      "supplier": "V14",
+      "day": "2026-10-13",
+      "promised_kg": 142,
+      "received_kg": 132,
+      "late_hours": 0,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D14-8",
+      "supplier": "V14",
+      "day": "2026-10-19",
+      "promised_kg": 142,
+      "received_kg": 132,
+      "late_hours": 0,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D15-1",
+      "supplier": "V15",
+      "day": "2026-09-07",
+      "promised_kg": 145,
+      "received_kg": 135,
+      "late_hours": 1,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D15-2",
+      "supplier": "V15",
+      "day": "2026-09-13",
+      "promised_kg": 145,
+      "received_kg": 135,
+      "late_hours": 2,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D15-3",
+      "supplier": "V15",
+      "day": "2026-09-19",
+      "promised_kg": 145,
+      "received_kg": 135,
+      "late_hours": 3,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D15-4",
+      "supplier": "V15",
+      "day": "2026-09-25",
+      "promised_kg": 145,
+      "received_kg": 135,
+      "late_hours": 4,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D15-5",
+      "supplier": "V15",
+      "day": "2026-10-01",
+      "promised_kg": 145,
+      "received_kg": 135,
+      "late_hours": 5,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D15-6",
+      "supplier": "V15",
+      "day": "2026-10-07",
+      "promised_kg": 145,
+      "received_kg": 135,
+      "late_hours": 6,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D15-7",
+      "supplier": "V15",
+      "day": "2026-10-13",
+      "promised_kg": 145,
+      "received_kg": 135,
+      "late_hours": 0,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D15-8",
+      "supplier": "V15",
+      "day": "2026-10-19",
+      "promised_kg": 145,
+      "received_kg": 135,
+      "late_hours": 1,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D16-1",
+      "supplier": "V16",
+      "day": "2026-09-07",
+      "promised_kg": 148,
+      "received_kg": 138,
+      "late_hours": 2,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D16-2",
+      "supplier": "V16",
+      "day": "2026-09-13",
+      "promised_kg": 148,
+      "received_kg": 138,
+      "late_hours": 4,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D16-3",
+      "supplier": "V16",
+      "day": "2026-09-19",
+      "promised_kg": 148,
+      "received_kg": 138,
+      "late_hours": 6,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D16-4",
+      "supplier": "V16",
+      "day": "2026-09-25",
+      "promised_kg": 148,
+      "received_kg": 138,
+      "late_hours": 1,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D16-5",
+      "supplier": "V16",
+      "day": "2026-10-01",
+      "promised_kg": 148,
+      "received_kg": 138,
+      "late_hours": 3,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D16-6",
+      "supplier": "V16",
+      "day": "2026-10-07",
+      "promised_kg": 148,
+      "received_kg": 138,
+      "late_hours": 5,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D16-7",
+      "supplier": "V16",
+      "day": "2026-10-13",
+      "promised_kg": 148,
+      "received_kg": 138,
+      "late_hours": 0,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D16-8",
+      "supplier": "V16",
+      "day": "2026-10-19",
+      "promised_kg": 148,
+      "received_kg": 138,
+      "late_hours": 2,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D17-1",
+      "supplier": "V17",
+      "day": "2026-09-07",
+      "promised_kg": 151,
+      "received_kg": 141,
+      "late_hours": 3,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D17-2",
+      "supplier": "V17",
+      "day": "2026-09-13",
+      "promised_kg": 151,
+      "received_kg": 141,
+      "late_hours": 6,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D17-3",
+      "supplier": "V17",
+      "day": "2026-09-19",
+      "promised_kg": 151,
+      "received_kg": 141,
+      "late_hours": 2,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D17-4",
+      "supplier": "V17",
+      "day": "2026-09-25",
+      "promised_kg": 151,
+      "received_kg": 141,
+      "late_hours": 5,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D17-5",
+      "supplier": "V17",
+      "day": "2026-10-01",
+      "promised_kg": 151,
+      "received_kg": 141,
+      "late_hours": 1,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D17-6",
+      "supplier": "V17",
+      "day": "2026-10-07",
+      "promised_kg": 151,
+      "received_kg": 141,
+      "late_hours": 4,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D17-7",
+      "supplier": "V17",
+      "day": "2026-10-13",
+      "promised_kg": 151,
+      "received_kg": 141,
+      "late_hours": 0,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D17-8",
+      "supplier": "V17",
+      "day": "2026-10-19",
+      "promised_kg": 151,
+      "received_kg": 141,
+      "late_hours": 3,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D18-1",
+      "supplier": "V18",
+      "day": "2026-09-07",
+      "promised_kg": 154,
+      "received_kg": 144,
+      "late_hours": 4,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D18-2",
+      "supplier": "V18",
+      "day": "2026-09-13",
+      "promised_kg": 154,
+      "received_kg": 144,
+      "late_hours": 1,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D18-3",
+      "supplier": "V18",
+      "day": "2026-09-19",
+      "promised_kg": 154,
+      "received_kg": 144,
+      "late_hours": 5,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D18-4",
+      "supplier": "V18",
+      "day": "2026-09-25",
+      "promised_kg": 154,
+      "received_kg": 144,
+      "late_hours": 2,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D18-5",
+      "supplier": "V18",
+      "day": "2026-10-01",
+      "promised_kg": 154,
+      "received_kg": 144,
+      "late_hours": 6,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D18-6",
+      "supplier": "V18",
+      "day": "2026-10-07",
+      "promised_kg": 154,
+      "received_kg": 144,
+      "late_hours": 3,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D18-7",
+      "supplier": "V18",
+      "day": "2026-10-13",
+      "promised_kg": 154,
+      "received_kg": 144,
+      "late_hours": 0,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D18-8",
+      "supplier": "V18",
+      "day": "2026-10-19",
+      "promised_kg": 154,
+      "received_kg": 144,
+      "late_hours": 4,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D19-1",
+      "supplier": "V19",
+      "day": "2026-09-07",
+      "promised_kg": 157,
+      "received_kg": 147,
+      "late_hours": 5,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D19-2",
+      "supplier": "V19",
+      "day": "2026-09-13",
+      "promised_kg": 157,
+      "received_kg": 147,
+      "late_hours": 3,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D19-3",
+      "supplier": "V19",
+      "day": "2026-09-19",
+      "promised_kg": 157,
+      "received_kg": 147,
+      "late_hours": 1,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D19-4",
+      "supplier": "V19",
+      "day": "2026-09-25",
+      "promised_kg": 157,
+      "received_kg": 147,
+      "late_hours": 6,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D19-5",
+      "supplier": "V19",
+      "day": "2026-10-01",
+      "promised_kg": 157,
+      "received_kg": 147,
+      "late_hours": 4,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D19-6",
+      "supplier": "V19",
+      "day": "2026-10-07",
+      "promised_kg": 157,
+      "received_kg": 147,
+      "late_hours": 2,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D19-7",
+      "supplier": "V19",
+      "day": "2026-10-13",
+      "promised_kg": 157,
+      "received_kg": 147,
+      "late_hours": 0,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D19-8",
+      "supplier": "V19",
+      "day": "2026-10-19",
+      "promised_kg": 157,
+      "received_kg": 147,
+      "late_hours": 5,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D20-1",
+      "supplier": "V20",
+      "day": "2026-09-07",
+      "promised_kg": 160,
+      "received_kg": 150,
+      "late_hours": 6,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D20-2",
+      "supplier": "V20",
+      "day": "2026-09-13",
+      "promised_kg": 160,
+      "received_kg": 150,
+      "late_hours": 5,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D20-3",
+      "supplier": "V20",
+      "day": "2026-09-19",
+      "promised_kg": 160,
+      "received_kg": 150,
+      "late_hours": 4,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D20-4",
+      "supplier": "V20",
+      "day": "2026-09-25",
+      "promised_kg": 160,
+      "received_kg": 150,
+      "late_hours": 3,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D20-5",
+      "supplier": "V20",
+      "day": "2026-10-01",
+      "promised_kg": 160,
+      "received_kg": 150,
+      "late_hours": 2,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D20-6",
+      "supplier": "V20",
+      "day": "2026-10-07",
+      "promised_kg": 160,
+      "received_kg": 150,
+      "late_hours": 1,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D20-7",
+      "supplier": "V20",
+      "day": "2026-10-13",
+      "promised_kg": 160,
+      "received_kg": 150,
+      "late_hours": 0,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D20-8",
+      "supplier": "V20",
+      "day": "2026-10-19",
+      "promised_kg": 160,
+      "received_kg": 150,
+      "late_hours": 6,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D21-1",
+      "supplier": "V21",
+      "day": "2026-09-07",
+      "promised_kg": 163,
+      "received_kg": 153,
+      "late_hours": 0,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D21-2",
+      "supplier": "V21",
+      "day": "2026-09-13",
+      "promised_kg": 163,
+      "received_kg": 153,
+      "late_hours": 0,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D21-3",
+      "supplier": "V21",
+      "day": "2026-09-19",
+      "promised_kg": 163,
+      "received_kg": 153,
+      "late_hours": 0,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D21-4",
+      "supplier": "V21",
+      "day": "2026-09-25",
+      "promised_kg": 163,
+      "received_kg": 153,
+      "late_hours": 0,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D21-5",
+      "supplier": "V21",
+      "day": "2026-10-01",
+      "promised_kg": 163,
+      "received_kg": 153,
+      "late_hours": 0,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D21-6",
+      "supplier": "V21",
+      "day": "2026-10-07",
+      "promised_kg": 163,
+      "received_kg": 153,
+      "late_hours": 0,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D21-7",
+      "supplier": "V21",
+      "day": "2026-10-13",
+      "promised_kg": 163,
+      "received_kg": 153,
+      "late_hours": 0,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D21-8",
+      "supplier": "V21",
+      "day": "2026-10-19",
+      "promised_kg": 163,
+      "received_kg": 153,
+      "late_hours": 0,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D22-1",
+      "supplier": "V22",
+      "day": "2026-09-07",
+      "promised_kg": 166,
+      "received_kg": 156,
+      "late_hours": 1,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D22-2",
+      "supplier": "V22",
+      "day": "2026-09-13",
+      "promised_kg": 166,
+      "received_kg": 156,
+      "late_hours": 2,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D22-3",
+      "supplier": "V22",
+      "day": "2026-09-19",
+      "promised_kg": 166,
+      "received_kg": 156,
+      "late_hours": 3,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D22-4",
+      "supplier": "V22",
+      "day": "2026-09-25",
+      "promised_kg": 166,
+      "received_kg": 156,
+      "late_hours": 4,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D22-5",
+      "supplier": "V22",
+      "day": "2026-10-01",
+      "promised_kg": 166,
+      "received_kg": 156,
+      "late_hours": 5,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D22-6",
+      "supplier": "V22",
+      "day": "2026-10-07",
+      "promised_kg": 166,
+      "received_kg": 156,
+      "late_hours": 6,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D22-7",
+      "supplier": "V22",
+      "day": "2026-10-13",
+      "promised_kg": 166,
+      "received_kg": 156,
+      "late_hours": 0,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D22-8",
+      "supplier": "V22",
+      "day": "2026-10-19",
+      "promised_kg": 166,
+      "received_kg": 156,
+      "late_hours": 1,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D23-1",
+      "supplier": "V23",
+      "day": "2026-09-07",
+      "promised_kg": 169,
+      "received_kg": 159,
+      "late_hours": 2,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D23-2",
+      "supplier": "V23",
+      "day": "2026-09-13",
+      "promised_kg": 169,
+      "received_kg": 159,
+      "late_hours": 4,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D23-3",
+      "supplier": "V23",
+      "day": "2026-09-19",
+      "promised_kg": 169,
+      "received_kg": 159,
+      "late_hours": 6,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D23-4",
+      "supplier": "V23",
+      "day": "2026-09-25",
+      "promised_kg": 169,
+      "received_kg": 159,
+      "late_hours": 1,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D23-5",
+      "supplier": "V23",
+      "day": "2026-10-01",
+      "promised_kg": 169,
+      "received_kg": 159,
+      "late_hours": 3,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D23-6",
+      "supplier": "V23",
+      "day": "2026-10-07",
+      "promised_kg": 169,
+      "received_kg": 159,
+      "late_hours": 5,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D23-7",
+      "supplier": "V23",
+      "day": "2026-10-13",
+      "promised_kg": 169,
+      "received_kg": 159,
+      "late_hours": 0,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D23-8",
+      "supplier": "V23",
+      "day": "2026-10-19",
+      "promised_kg": 169,
+      "received_kg": 159,
+      "late_hours": 2,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D24-1",
+      "supplier": "V24",
+      "day": "2026-09-07",
+      "promised_kg": 172,
+      "received_kg": 162,
+      "late_hours": 3,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D24-2",
+      "supplier": "V24",
+      "day": "2026-09-13",
+      "promised_kg": 172,
+      "received_kg": 162,
+      "late_hours": 6,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D24-3",
+      "supplier": "V24",
+      "day": "2026-09-19",
+      "promised_kg": 172,
+      "received_kg": 162,
+      "late_hours": 2,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D24-4",
+      "supplier": "V24",
+      "day": "2026-09-25",
+      "promised_kg": 172,
+      "received_kg": 162,
+      "late_hours": 5,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D24-5",
+      "supplier": "V24",
+      "day": "2026-10-01",
+      "promised_kg": 172,
+      "received_kg": 162,
+      "late_hours": 1,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D24-6",
+      "supplier": "V24",
+      "day": "2026-10-07",
+      "promised_kg": 172,
+      "received_kg": 162,
+      "late_hours": 4,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D24-7",
+      "supplier": "V24",
+      "day": "2026-10-13",
+      "promised_kg": 172,
+      "received_kg": 162,
+      "late_hours": 0,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D24-8",
+      "supplier": "V24",
+      "day": "2026-10-19",
+      "promised_kg": 172,
+      "received_kg": 162,
+      "late_hours": 3,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D25-1",
+      "supplier": "V25",
+      "day": "2026-09-07",
+      "promised_kg": 175,
+      "received_kg": 165,
+      "late_hours": 4,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D25-2",
+      "supplier": "V25",
+      "day": "2026-09-13",
+      "promised_kg": 175,
+      "received_kg": 165,
+      "late_hours": 1,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D25-3",
+      "supplier": "V25",
+      "day": "2026-09-19",
+      "promised_kg": 175,
+      "received_kg": 165,
+      "late_hours": 5,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D25-4",
+      "supplier": "V25",
+      "day": "2026-09-25",
+      "promised_kg": 175,
+      "received_kg": 165,
+      "late_hours": 2,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D25-5",
+      "supplier": "V25",
+      "day": "2026-10-01",
+      "promised_kg": 175,
+      "received_kg": 165,
+      "late_hours": 6,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D25-6",
+      "supplier": "V25",
+      "day": "2026-10-07",
+      "promised_kg": 175,
+      "received_kg": 165,
+      "late_hours": 3,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D25-7",
+      "supplier": "V25",
+      "day": "2026-10-13",
+      "promised_kg": 175,
+      "received_kg": 165,
+      "late_hours": 0,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D25-8",
+      "supplier": "V25",
+      "day": "2026-10-19",
+      "promised_kg": 175,
+      "received_kg": 165,
+      "late_hours": 4,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D26-1",
+      "supplier": "V26",
+      "day": "2026-09-07",
+      "promised_kg": 178,
+      "received_kg": 168,
+      "late_hours": 5,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D26-2",
+      "supplier": "V26",
+      "day": "2026-09-13",
+      "promised_kg": 178,
+      "received_kg": 168,
+      "late_hours": 3,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D26-3",
+      "supplier": "V26",
+      "day": "2026-09-19",
+      "promised_kg": 178,
+      "received_kg": 168,
+      "late_hours": 1,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D26-4",
+      "supplier": "V26",
+      "day": "2026-09-25",
+      "promised_kg": 178,
+      "received_kg": 168,
+      "late_hours": 6,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D26-5",
+      "supplier": "V26",
+      "day": "2026-10-01",
+      "promised_kg": 178,
+      "received_kg": 168,
+      "late_hours": 4,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D26-6",
+      "supplier": "V26",
+      "day": "2026-10-07",
+      "promised_kg": 178,
+      "received_kg": 168,
+      "late_hours": 2,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D26-7",
+      "supplier": "V26",
+      "day": "2026-10-13",
+      "promised_kg": 178,
+      "received_kg": 168,
+      "late_hours": 0,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D26-8",
+      "supplier": "V26",
+      "day": "2026-10-19",
+      "promised_kg": 178,
+      "received_kg": 168,
+      "late_hours": 5,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D27-1",
+      "supplier": "V27",
+      "day": "2026-09-07",
+      "promised_kg": 181,
+      "received_kg": 171,
+      "late_hours": 6,
+      "off_grade_kg": 6,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D27-2",
+      "supplier": "V27",
+      "day": "2026-09-13",
+      "promised_kg": 181,
+      "received_kg": 171,
+      "late_hours": 5,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D27-3",
+      "supplier": "V27",
+      "day": "2026-09-19",
+      "promised_kg": 181,
+      "received_kg": 171,
+      "late_hours": 4,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D27-4",
+      "supplier": "V27",
+      "day": "2026-09-25",
+      "promised_kg": 181,
+      "received_kg": 171,
+      "late_hours": 3,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D27-5",
+      "supplier": "V27",
+      "day": "2026-10-01",
+      "promised_kg": 181,
+      "received_kg": 171,
+      "late_hours": 2,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D27-6",
+      "supplier": "V27",
+      "day": "2026-10-07",
+      "promised_kg": 181,
+      "received_kg": 171,
+      "late_hours": 1,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D27-7",
+      "supplier": "V27",
+      "day": "2026-10-13",
+      "promised_kg": 181,
+      "received_kg": 171,
+      "late_hours": 0,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D27-8",
+      "supplier": "V27",
+      "day": "2026-10-19",
+      "promised_kg": 181,
+      "received_kg": 171,
+      "late_hours": 6,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D28-1",
+      "supplier": "V28",
+      "day": "2026-09-07",
+      "promised_kg": 184,
+      "received_kg": 174,
+      "late_hours": 0,
+      "off_grade_kg": 7,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D28-2",
+      "supplier": "V28",
+      "day": "2026-09-13",
+      "promised_kg": 184,
+      "received_kg": 174,
+      "late_hours": 0,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D28-3",
+      "supplier": "V28",
+      "day": "2026-09-19",
+      "promised_kg": 184,
+      "received_kg": 174,
+      "late_hours": 0,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-19"
+    },
+    {
+      "delivery_id": "D28-4",
+      "supplier": "V28",
+      "day": "2026-09-25",
+      "promised_kg": 184,
+      "received_kg": 174,
+      "late_hours": 0,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-25"
+    },
+    {
+      "delivery_id": "D28-5",
+      "supplier": "V28",
+      "day": "2026-10-01",
+      "promised_kg": 184,
+      "received_kg": 174,
+      "late_hours": 0,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-10-01"
+    },
+    {
+      "delivery_id": "D28-6",
+      "supplier": "V28",
+      "day": "2026-10-07",
+      "promised_kg": 184,
+      "received_kg": 174,
+      "late_hours": 0,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-10-07"
+    },
+    {
+      "delivery_id": "D28-7",
+      "supplier": "V28",
+      "day": "2026-10-13",
+      "promised_kg": 184,
+      "received_kg": 174,
+      "late_hours": 0,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-10-13"
+    },
+    {
+      "delivery_id": "D28-8",
+      "supplier": "V28",
+      "day": "2026-10-19",
+      "promised_kg": 184,
+      "received_kg": 174,
+      "late_hours": 0,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "delivery_id": "D29-1",
+      "supplier": "V29",
+      "day": "2026-09-07",
+      "promised_kg": 187,
+      "received_kg": 177,
+      "late_hours": 1,
+      "off_grade_kg": 8,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D29-2",
+      "supplier": "V29",
+      "day": "2026-09-13",
+      "promised_kg": 187,
+      "received_kg": 177,
+      "late_hours": 2,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D30-1",
+      "supplier": "V30",
+      "day": "2026-09-07",
+      "promised_kg": 190,
+      "received_kg": 180,
+      "late_hours": 2,
+      "off_grade_kg": 9,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D30-2",
+      "supplier": "V30",
+      "day": "2026-09-13",
+      "promised_kg": 190,
+      "received_kg": 180,
+      "late_hours": 4,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D31-1",
+      "supplier": "V31",
+      "day": "2026-09-07",
+      "promised_kg": 193,
+      "received_kg": 183,
+      "late_hours": 3,
+      "off_grade_kg": 10,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D31-2",
+      "supplier": "V31",
+      "day": "2026-09-13",
+      "promised_kg": 193,
+      "received_kg": 183,
+      "late_hours": 6,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D32-1",
+      "supplier": "V32",
+      "day": "2026-09-07",
+      "promised_kg": 196,
+      "received_kg": 186,
+      "late_hours": 4,
+      "off_grade_kg": 0,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D32-2",
+      "supplier": "V32",
+      "day": "2026-09-13",
+      "promised_kg": 196,
+      "received_kg": 186,
+      "late_hours": 1,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D33-1",
+      "supplier": "V33",
+      "day": "2026-09-07",
+      "promised_kg": 199,
+      "received_kg": 189,
+      "late_hours": 5,
+      "off_grade_kg": 1,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D33-2",
+      "supplier": "V33",
+      "day": "2026-09-13",
+      "promised_kg": 199,
+      "received_kg": 189,
+      "late_hours": 3,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D34-1",
+      "supplier": "V34",
+      "day": "2026-09-07",
+      "promised_kg": 202,
+      "received_kg": 192,
+      "late_hours": 6,
+      "off_grade_kg": 2,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D34-2",
+      "supplier": "V34",
+      "day": "2026-09-13",
+      "promised_kg": 202,
+      "received_kg": 192,
+      "late_hours": 5,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D35-1",
+      "supplier": "V35",
+      "day": "2026-09-07",
+      "promised_kg": 205,
+      "received_kg": 195,
+      "late_hours": 0,
+      "off_grade_kg": 3,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D35-2",
+      "supplier": "V35",
+      "day": "2026-09-13",
+      "promised_kg": 205,
+      "received_kg": 195,
+      "late_hours": 0,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-13"
+    },
+    {
+      "delivery_id": "D36-1",
+      "supplier": "V36",
+      "day": "2026-09-07",
+      "promised_kg": 208,
+      "received_kg": 198,
+      "late_hours": 1,
+      "off_grade_kg": 4,
+      "recorded_at": "2026-09-07"
+    },
+    {
+      "delivery_id": "D36-2",
+      "supplier": "V36",
+      "day": "2026-09-13",
+      "promised_kg": 208,
+      "received_kg": 198,
+      "late_hours": 2,
+      "off_grade_kg": 5,
+      "recorded_at": "2026-09-13"
+    }
+  ],
+  "overrides": [
+    {
+      "supplier": "V36",
+      "group": "stable",
+      "starts_on": "2026-10-01",
+      "ends_on": null,
+      "reason": "合作初期人工跟进"
+    }
+  ],
+  "strategies": [
+    {
+      "group": "stable",
+      "inspection_fraction": 0.05,
+      "followup_days": 14
+    },
+    {
+      "group": "followup",
+      "inspection_fraction": 0.3,
+      "followup_days": 3
+    },
+    {
+      "group": "new",
+      "inspection_fraction": 0.5,
+      "followup_days": 1
+    }
+  ],
+  "mixed_loads": [
+    {
+      "load_id": "M1",
+      "day": "2026-10-16",
+      "line": "L1",
+      "supplier_kg": {
+        "V01": 60,
+        "V02": 40
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 0.7,
+      "recorded_at": "2026-10-16"
+    },
+    {
+      "load_id": "M2",
+      "day": "2026-10-17",
+      "line": "L1",
+      "supplier_kg": {
+        "V01": 60,
+        "V02": 40
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 1.0,
+      "recorded_at": "2026-10-17"
+    },
+    {
+      "load_id": "M3",
+      "day": "2026-10-18",
+      "line": "L2",
+      "supplier_kg": {
+        "V03": 70,
+        "V04": 30
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 1.2999999999999998,
+      "recorded_at": "2026-10-18"
+    },
+    {
+      "load_id": "M4",
+      "day": "2026-10-19",
+      "line": "L1",
+      "supplier_kg": {
+        "V01": 60,
+        "V02": 40
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 0.4,
+      "recorded_at": "2026-10-19"
+    },
+    {
+      "load_id": "M5",
+      "day": "2026-10-20",
+      "line": "L1",
+      "supplier_kg": {
+        "V01": 60,
+        "V02": 40
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 0.7,
+      "recorded_at": "2026-10-20"
+    },
+    {
+      "load_id": "M6",
+      "day": "2026-10-21",
+      "line": "L2",
+      "supplier_kg": {
+        "V03": 70,
+        "V04": 30
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 1.0,
+      "recorded_at": "2026-10-21"
+    },
+    {
+      "load_id": "M7",
+      "day": "2026-10-22",
+      "line": "L1",
+      "supplier_kg": {
+        "V01": 60,
+        "V02": 40
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 1.2999999999999998,
+      "recorded_at": "2026-10-22"
+    },
+    {
+      "load_id": "M8",
+      "day": "2026-10-23",
+      "line": "L1",
+      "supplier_kg": {
+        "V01": 60,
+        "V02": 40
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 0.4,
+      "recorded_at": "2026-10-23"
+    },
+    {
+      "load_id": "M9",
+      "day": "2026-10-24",
+      "line": "L2",
+      "supplier_kg": {
+        "V03": 70,
+        "V04": 30
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 0.7,
+      "recorded_at": "2026-10-24"
+    },
+    {
+      "load_id": "M10",
+      "day": "2026-10-25",
+      "line": "L1",
+      "supplier_kg": {
+        "V01": 60,
+        "V02": 40
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 1.0,
+      "recorded_at": "2026-10-25"
+    },
+    {
+      "load_id": "M11",
+      "day": "2026-10-26",
+      "line": "L1",
+      "supplier_kg": {
+        "V01": 60,
+        "V02": 40
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 1.2999999999999998,
+      "recorded_at": "2026-10-26"
+    },
+    {
+      "load_id": "M12",
+      "day": "2026-10-27",
+      "line": "L2",
+      "supplier_kg": {
+        "V03": 70,
+        "V04": 30
+      },
+      "checked_kg": 20,
+      "off_grade_kg": 0.4,
+      "recorded_at": "2026-10-27"
+    }
+  ],
+  "independent_rechecks": [
+    {
+      "check_id": "R1",
+      "supplier": "V01",
+      "checked_kg": 10,
+      "off_grade_kg": 0.2,
+      "recorded_at": "2026-11-02"
+    }
+  ]
+}
